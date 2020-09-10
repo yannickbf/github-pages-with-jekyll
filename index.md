@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenido a mi pagina de GitHub Pages
 
-I'm glad you are here. I plan to talk about ...
+Hola, hola
