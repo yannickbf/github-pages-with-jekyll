@@ -1,3 +1,2 @@
 # Bienvenido a mi pagina de GitHub Pages
-
-Hola, hola
+Aqui encontraras todos los proyectos de tematica libre que he realizado durante mis cursos academicos. Podras consultar todos los archivos de dichos proyectos ademas de poder visualizar su funcionamiento entre otras cosas.
